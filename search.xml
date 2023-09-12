@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/06/12/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>商业服务</title>
+    <url>/2023/08/08/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/</url>
+    <content><![CDATA[<h2 id="科研项目服务"><a href="#科研项目服务" class="headerlink" title="科研项目服务"></a>科研项目服务</h2><h2 id="AI技术人才派遣"><a href="#AI技术人才派遣" class="headerlink" title="AI技术人才派遣"></a>AI技术人才派遣</h2><h2 id="技术人才服务出海"><a href="#技术人才服务出海" class="headerlink" title="技术人才服务出海"></a>技术人才服务出海</h2>]]></content>
+      <categories>
+        <category>AI技术人才派遣</category>
+      </categories>
+      <tags>
+        <tag>商业服务</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>团队成员</title>
+    <url>/2023/08/08/%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98/</url>
+    <content><![CDATA[<h2 id="核心团队"><a href="#核心团队" class="headerlink" title="核心团队"></a>核心团队</h2><h2 id="专家顾问"><a href="#专家顾问" class="headerlink" title="专家顾问"></a>专家顾问</h2><h2 id="合作机构"><a href="#合作机构" class="headerlink" title="合作机构"></a>合作机构</h2>]]></content>
+      <categories>
+        <category>核心成员</category>
+      </categories>
+      <tags>
+        <tag>合作机构</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>技术产品</title>
+    <url>/2023/07/17/%E6%8A%80%E6%9C%AF%E4%BA%A7%E5%93%81/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="AIDD-QAIDD-AI制药"><a href="#AIDD-QAIDD-AI制药" class="headerlink" title="AIDD&#x2F;QAIDD&#x2F;AI制药"></a>AIDD&#x2F;QAIDD&#x2F;AI制药</h2><h2 id="AI医疗-智慧医疗"><a href="#AI医疗-智慧医疗" class="headerlink" title="AI医疗&#x2F;智慧医疗"></a>AI医疗&#x2F;智慧医疗</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h2 id="医疗数据隐私"><a href="#医疗数据隐私" class="headerlink" title="医疗数据隐私"></a>医疗数据隐私</h2><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>技术产品</category>
+      </categories>
+      <tags>
+        <tag>AIDD</tag>
+        <tag>QAIDD</tag>
+        <tag>AI制药</tag>
+      </tags>
+  </entry>
+</search>

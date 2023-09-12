@@ -1,0 +1,394 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #ffff;
+}
+.maxui{
+    width: 100%;
+    height: 100%;
+    overflow-x:hidden;
+}
+
+.navp {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hlw {
+    margin-left: 330px;
+    margin-top: 30px;
+    color: yellow;
+    font-size: 28px;
+}
+
+.mb {
+    color: #fff;
+}
+
+.uli {
+    position: absolute;
+    top: 40px;
+    left: 850px;
+    width: 1000px;
+    height: 100px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.lis {
+    margin-left: 50px;
+    float: left;
+}
+
+.con {
+    position: relative;
+}
+
+.jinq {
+    position: absolute;
+    top: 200px;
+    left: 300px;
+}
+
+.te {
+    color: #4d8ac3;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.tee {
+    color: #4d8ac3;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: -20px;
+}
+
+.ce {
+    width: 556px;
+    height: 150px;
+    color: #b399a6;
+    margin-top: 60px;
+}
+
+.cee {
+    width: 556px;
+    height: 200px;
+    color: #b399a6;
+}
+
+.dev {
+    position: relative;
+}
+
+.bt {
+    position: absolute;
+    top: 200px;
+    left: 600px;
+}
+
+.tem {
+    margin-left: 200px;
+    font-size: 34px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.eot {
+    color: #fff;
+}
+
+.btt {
+    position: absolute;
+    top: 400px;
+    left: 300px;
+}
+
+.uls {
+    overflow: hidden;
+}
+
+.liss {
+    float: left;
+    width: 280px;
+    height: 400px;
+    margin-left: 30px;
+    background-color: #fff;
+}
+
+.imgs {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.dsj {
+    color: black;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-left: 90px;
+}
+
+.qylj {
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+    color: #b399a6;
+    font-size: 15px;
+}
+
+.vvps {
+    position: relative;
+    width: 1920px;
+    height: 960px;
+    background-color: #fff;
+}
+
+.man {
+    margin-top: 200px;
+    margin-left: 800px;
+    color: #02b2b5;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.wmss {
+    margin-top: -10px;
+    margin-left: 730px;
+    font-size: 15px;
+    color: #666666;
+}
+
+.qy {
+    margin-top: 100px;
+    margin-left: 300px;
+}
+
+.kex {
+    width: 540px;
+    height: 200px;
+    margin-top: 70px;
+    font-size: 15px;
+}
+
+.lxwm {
+    margin-left: -110px;
+    color: #fff;
+    font-size: 15px;
+}
+
+.tux {
+    position: absolute;
+    top: 260px;
+    left: 900px;
+}
+
+.chuangy {
+    position: relative;
+}
+
+.changye {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.temcy {
+    margin-top: 180px;
+    margin-left: 800px;
+    color: #02b2b5;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.shuju {
+    margin-top: -10px;
+    margin-left: 650px;
+    font-size: 15px;
+    color: #666666;
+}
+
+.tupss {
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+
+.ulls {
+    overflow: hidden;
+}
+
+.lios {
+    margin-left: 100px;
+    float: left;
+}
+
+.imges {
+    margin-top: 20px;
+}
+
+.misse {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.linahe {
+    margin-top: 5px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+.gongg {
+    width: 200px;
+    font-size: 15px;
+}
+
+.fzlc {
+    position: relative;
+}
+
+.temme {
+    position: absolute;
+    top: 200px;
+    left: 400px;
+}
+
+.temfz {
+    color: #02b2b5;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.shujus {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 16px;
+}
+
+.zijian {
+    width: 600px;
+    font-size: 16px;
+}
+
+.baoge {
+    position: absolute;
+    top: 300px;
+    left: 900px;
+}
+
+.shujs {
+    font-size: 15px;
+}
+
+.wc {
+    position: absolute;
+    top: 285px;
+    left: 50px;
+}
+
+.tians {
+    position: absolute;
+    top: 310px;
+    left: 30px;
+}
+
+.chuangj {
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+
+.sjzx {
+    position: absolute;
+    top: 275px;
+    left: 135px;
+}
+
+.kaif {
+    position: absolute;
+    top: 190px;
+    left: 280px;
+}
+
+.dajian {
+    position: absolute;
+    top: 215px;
+    left: 270px;
+}
+
+.fabu {
+    position: absolute;
+    top: 136px;
+    left: 380px;
+}
+
+.csbxt {
+    position: absolute;
+    top: 160px;
+    left: 365px;
+}
+
+.zhic {
+    position: absolute;
+    top: 60px;
+    left: 500px;
+}
+
+.sjkr {
+    position: absolute;
+    top: 85px;
+    left: 490px;
+}
+
+.zhe {
+    position: absolute;
+    top: -20px;
+    left: 630px;
+}
+
+.sjyh {
+    position: absolute;
+    top: 5px;
+    left: 620px;
+}
+
+.jjs {
+    position: absolute;
+    bottom: 60px;
+    right: 600px;
+}
+
+.jjss {
+    position: absolute;
+    bottom: 110px;
+    right: 480px;
+}
+.jjsd {
+    position: absolute;
+    bottom: 160px;
+    right: 370px;
+}
+.jjsf {
+    position: absolute;
+    bottom: 210px;
+    right: 250px;
+}
+.jjsg {
+    position: absolute;
+    bottom: 270px;
+    right: 130px;
+}
+.jjsh {
+    position: absolute;
+    bottom: 350px;
+    right: 15px;
+}
